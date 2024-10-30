@@ -1,2 +1,0 @@
-# RenderTrial
-Trial for render
